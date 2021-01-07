@@ -1,0 +1,179 @@
+@media (max-width: 1300px) {
+   .contact-info-right {
+      display: none;
+   }
+   .white-div {
+      display: none;
+   }
+   .contact-info {
+      max-width: none;
+      margin: 0 auto;
+   }
+}
+
+@media (max-width: 1260px) {
+   .portfolio {
+      flex-wrap: wrap;
+   }
+   .portfolio-left {
+      margin: 0 auto;
+      max-width: 920px;
+      margin-bottom: 50px;
+   }
+   .portfolio-left a {
+      margin: 40px auto 0;
+   }
+   .portfolio-right {
+      margin: 0 auto;
+   }
+   .products-img {
+      max-width: 933px;
+   }
+   .team-info {
+      max-width: 400px;
+      margin: 0 auto 30px;
+   }
+   .line-team {
+      max-width: 400px !important;
+   }
+   .our-team-right {
+      margin-left: 130px;
+   }
+   .our-team {
+      margin: 0 auto;
+      max-width: 1130px;
+   }
+}
+
+@media (max-width: 1125px) {
+   .our-team-right p {
+      max-width: 419px;
+   }
+   .our-team {
+      max-width: 890px;
+   }
+}
+
+@media (max-width: 1050px) {
+   .header {
+      flex-wrap: wrap;
+   }
+   .header {
+      max-width: 680px;
+      margin: 100px auto;
+   }
+   .header-wrapper {
+      margin: 0 auto;
+   }
+   .header-wrapper a {
+      margin: 0 auto;
+   }
+   .header-img img {
+      margin-top: 35px;
+      width: 100%;
+      max-width: 680px !important;
+   }
+   .portfolio-left {
+      max-width: 680px;
+   }
+   .portfolio-right {
+      max-width: 680px;
+   }
+}
+
+@media (max-width: 950px) {
+   .products-img {
+      max-width: 622px;
+   }
+}
+
+@media (max-width: 910px) {
+   .our-team {
+      flex-wrap: wrap;
+   }
+   .our-team-img-left {
+      margin: 0 auto;
+   }
+   .our-team-right {
+      margin: 0 auto;
+   }
+}
+
+@media (max-width: 750px) {
+   .contact-message textarea {
+      width: 90%;
+   }
+   .input-name {
+      margin-bottom: 20px;
+   }
+}
+
+@media (max-width: 640px) {
+   .products-img {
+      max-width: 311px;
+   }
+   .mail h1 {
+      margin-top: 30px;
+   }
+   .mail-form {
+      flex-wrap: wrap;
+   }
+   .mail-form input {
+      margin: 20px 0;
+   }
+}
+
+@media (max-width: 620px) {
+   .portfolio-right {
+      max-width: 315px;
+   }
+}
+
+@media (max-width: 515px) {
+   .header-wrapper h1 {
+      font-size: 47px;
+   }
+   .products li {
+      padding: 5px 70px;
+   }
+   .products h1 {
+      max-width: 165px;
+   }
+}
+
+@media (max-width: 455px) {
+   .our-team-img-right {
+      max-width: 200px;
+      margin: 0 auto;
+   }
+   .contact-message textarea {
+      width: 297.5px;
+   }
+   .input-name {
+      margin-right: 0;
+   }
+   .contact-message button {
+      width: 338.5px;
+   }
+}
+
+@media (max-width: 415px) {
+   .header-wrapper h1 {
+      font-size: 39px;
+   }
+   .products li {
+      padding: 5px 45px;
+   }
+   .mail h1 {
+      font-size: 30px;
+   }
+   .contact-message textarea {
+      width: 265.5px;
+   }
+   .contact-name input {
+      width: 265.5px;
+   }
+   .contact-message button {
+      width: 306.5px;
+   }
+}
